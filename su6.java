@@ -1,0 +1,1 @@
+testing local &global together
